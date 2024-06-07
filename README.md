@@ -20,9 +20,9 @@ NetflixClone is a recreation of the popular streaming platform Netflix, designed
 
 To run NetflixClone locally on your machine, follow these steps:
 
-1. Clone this repository: `git clone https://github.com/your-username/NetflixClone.git`
+1. Clone this repository: `git clone https://github.com/Shiftnter/NetflixClone.git`
 2. Navigate to the project directory.
-3. Open `index.html` in your preferred web browser.
+3. Open `netflix.html` in your preferred web browser.
 
 That's it! You're now ready to explore NetflixClone and enjoy browsing through a catalog of movies and TV shows.
 
